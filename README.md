@@ -4,8 +4,9 @@
 
 A premium, modern landing page for a luxury real estate website built with cutting-edge web technologies. Designed to captivate potential homebuyers with stunning visuals and seamless user experience.
 
-![Easy to Live Homes](./src/assets/easytolive.gif)
-
+<p align="center">
+  <img src="./src/assets/easytolive.gif" alt="easy to live Demo" width="700"/>
+</p>
 ---
 
 ## ✨ Features
